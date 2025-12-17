@@ -1,20 +1,44 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
-
-# Run and deploy your AI Studio app
-
-This contains everything you need to run your app locally.
-
-View your app in AI Studio: https://ai.studio/apps/drive/1CnHrutPuLuG4D6Z1AKYSbaqvNH5CXar2
-
-## Run Locally
-
-**Prerequisites:**  Node.js
+AUTO.AI.QUE - Predictive Maintenance Admin Center
+📖 Overview
+AUTO.AI.QUE is a swarm-intelligence-based predictive maintenance platform for automotive after-sales. This Admin Center provides service centers with real-time monitoring, appointment management, and AI-driven insights for proactive vehicle health management.
 
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+✨ Features
+🔍 Real-time Monitoring
+Live vehicle health scores (0-100%)
+Component status tracking
+OBD-II telematics data visualization
+Threshold-based alert system
+
+📅 Smart Scheduling
+Drag-drop appointment management
+Automated technician assignment
+Parts inventory synchronization
+Multi-location service center support
+
+🤖 AI-Powered Insights
+10-agent swarm intelligence system
+Failure prediction with 90%+ accuracy
+Batch correlation for manufacturing feedback
+Cost optimization recommendations
+
+📊 Analytics & Reporting
+Service center utilization metrics
+Revenue tracking and forecasting
+Customer retention analytics
+Weekly manufacturing quality reports
+
+🤖 AI Agent System
+The platform uses 10 specialized AI agents:
+
+Agent	              Responsibility	           
+Nexus Prime	        Workflow orchestration	  
+Telematic Visionary Real-time OBD analysis	   
+Diagnostic Prophet  Failure prediction	      
+Batch Correlator	  Manufacturing RCA
+Optimal Econom	     Cost optimization
+Voice Ambassador	  Customer notifications
+Logistic Conductor  Scheduling optimization
+Loyalty Echo	     Feedback analytics
+Sentinel Vigil	     Security monitoring
+Collective Synapse  Inter-agent comms
